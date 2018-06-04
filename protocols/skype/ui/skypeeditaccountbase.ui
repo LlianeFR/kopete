@@ -156,7 +156,7 @@
          <item>
           <widget class="QLineEdit" name="CommandEdit">
            <property name="text">
-            <string>skype</string>
+            <string notr="true">skype</string>
            </property>
           </widget>
          </item>
